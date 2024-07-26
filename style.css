@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(143, 100, 182);
+}
+.text-center{
+    font-size: 70px;
+}
+.mt-2{
+    align-items: center;
+}
+.form-label{
+ font-size: 20px;
+}
